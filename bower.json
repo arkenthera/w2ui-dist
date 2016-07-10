@@ -1,6 +1,6 @@
 {
     "name"        : "w2ui",
-    "version"     : "1.4.3",
+    "version"     : "1.4.4",
     "homepage"    : "http://w2ui.com",
     "main"        : "w2ui-1.4.3.min.js",
     "ignore"      : ["bower.json"],
@@ -12,7 +12,7 @@
         "url"   : "http://w2ui.com",
         "email" : "vitmalina@gmail.com"
     },
-    "main": ["w2ui-1.4.3.min.js", "w2ui-1.4.3.min.css"],    
+    "main": ["w2ui-1.4.3.min.js", "w2ui-1.4.3.min.css"],
     "scripts": [
         "w2ui-1.4.3.min.js"
     ],
